@@ -8,3 +8,4 @@ export function getFruits () {
       return res.body.fruits
     })
 }
+

@@ -2,6 +2,9 @@
 ## Easy place to keep track of your anime 
 Using MyAnimeList API to pull information from their database
 
+
+
+
 # Fullstack boilerplate
 
 ## Getting Started
