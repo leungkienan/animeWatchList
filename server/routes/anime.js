@@ -4,5 +4,8 @@ const router = express.Router()
 
 
 router.get('/', (req,res)=>{
-    
+    db.getAllAnime()
+    .then(results => {
+        res.json()
+    })
 })
